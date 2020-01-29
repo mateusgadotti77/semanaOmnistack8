@@ -2,7 +2,7 @@
   Omnistack 8 - TinDev
 </h1>
 
-<p align="center"> 🚀 TinDe: Esta foi a aplicação desenvolvida na 8° semana da Ominstack feito pela Rocketseat.
+<p align="center"> 🚀 TinDev: Esta foi a aplicação desenvolvida na 8° semana da Ominstack feito pela Rocketseat.
 
 
 ## Features
